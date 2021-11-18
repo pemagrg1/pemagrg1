@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ThilinaRajapakse)
+
+
 <!--
 **pemagrg1/pemagrg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
