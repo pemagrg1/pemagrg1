@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=pemagrg1)
 
-- 🤓 Computational Linguistics Student from Stuttgart Uinversity, Germany
-- 💻	NLP Engineer at Ekbana Solutions(2018-2022) | 👩‍🏫 Part time AI Lecturer at IIMS Colege(2021-2023)
+- 🤓 Computational Linguistics Student from Stuttgart University, Germany
+- 💻	NLP Engineer at Ekbana Solutions(2018-2022) | 👩‍🏫 Part time AI Lecturer at IIMS Colege(2021-2023)| Student Research Assistant at Stuttgart University
 - <img alt="PemaGrg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href=https://www.linkedin.com/in/pemagrg/>PemaGrg</a>
 
 ##  📕  Medium Posts
